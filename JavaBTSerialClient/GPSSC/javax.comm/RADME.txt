@@ -1,0 +1,27 @@
+1. Copy the  "[ comm.jar ]" in to
+
+	%JAVA_HOME%/lib
+
+    	%JAVA_HOME%/jre/lib/ext
+
+2.Copy the " [ win32com.dll ] " in to
+
+	%JAVA_HOME%/bin
+
+     	%JAVA_HOME%/jre/bin
+
+	%windir%System32
+
+3. Copy the " [ javax.comm.properties ] " in to
+
+	%JAVA_HOME%/lib
+
+	 %JAVA_HOME%/jre/lib
+
+
+- Kishor P 
+  
+  http://www.kishor15389.blogspot.com
+
+  email: kishorbenede15@gmail.com
+	

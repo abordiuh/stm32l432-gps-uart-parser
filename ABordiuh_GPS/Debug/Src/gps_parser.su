@@ -1,0 +1,4 @@
+gps_parser.c:11:13:subString	24	static
+gps_parser.c:22:9:truncateStr	24	static
+gps_parser.c:35:15:parseGPGGA	104	static
+gps_parser.c:58:6:uart_print_gpgga_message	16	static
