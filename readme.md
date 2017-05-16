@@ -1,5 +1,4 @@
-#STM32 L432 GPS NMEA Parser
-***************************************************************************
+# STM32 L432 GPS NMEA Parser
 
 The folder ABordiuh_GPS - contains source code and project of Atollic True
                           Studio on C:
