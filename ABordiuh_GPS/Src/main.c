@@ -136,7 +136,7 @@ int main(void) {
 			if (recChar == '$')				//STX! so let's start storing char in the recBuffer
 					{
 				recBufferIndex = 0;			//$ is the first char in a sentence.
-				recBuffer[recBufferIndex] = recChar				//so we've got to store it at the
+				recBuffer[recBufferIndex] = recChar;				//so we've got to store it at the
 											//start of our recBuffer
 				recBufferIndex++;			//and inc the index so the next char
 											//is stored in the next position in
